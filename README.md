@@ -1,4 +1,4 @@
-# Projeto Jogo Digital
+# Projeto Jogo Digital - Backlog
 
 ### Projeto de desenvolvimento de um jogo de tiro em C#
 
