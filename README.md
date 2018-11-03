@@ -17,4 +17,4 @@
 <li>Outros elementos</li>
 
 # Criptografia
-<li> Recuperar pontos de habilidade em arquivo criptografado </li>
+<li> Recuperar pontos de habilidade em arquivo criptografado ou Banco de dados (SQL)</li>
