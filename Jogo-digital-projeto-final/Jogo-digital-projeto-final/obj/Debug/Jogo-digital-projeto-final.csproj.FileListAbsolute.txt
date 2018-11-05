@@ -1,0 +1,10 @@
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.exe.config
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.exe
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.pdb
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Properties.Resources.resources
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.exe
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.pdb
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Form1.resources
