@@ -18,3 +18,8 @@
 
 # Criptografia
 <li> Recuperar pontos de habilidade em arquivo criptografado ou Banco de dados (SQL)</li>
+
+# Design
+<li> Personagens pixelados </li>
+<li> 3 personagens defaults de cores diferentes para cada time </li>
+  
