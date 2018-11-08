@@ -15,7 +15,7 @@
 <li>Estruturar sistema de mira</li>
 
 <li>Jogador pode direcionar todas as suas unidades para atirar em uma unica unidade inimiga. (?)</li>
-<li> Sistema de distância por alcance de uma unidade (A distância pode ser contada por meio de cedulas) </li>
+<li> Sistema de distância por alcance de uma unidade (A distância pode ser contada por meio de cedulas) (cedulas= unidades de distancia de um tabuleiro, podemos ve-las como quadradinhos) </li>
 <li>Outros elementos.</li>
 <li>Jogador pode direcionar todas as suas unidades para atirar em uma unica unidade inimiga (?)</li>
 <li>Outros elementos</li>
