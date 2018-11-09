@@ -3,18 +3,19 @@
 ### Projeto de desenvolvimento de um jogo de tiro em C#
 
 ## Unidades
-<li>Criar estrutura personagem</li>
-<li>Especificar os controles</li>
+<li>Criar estrutura personagem | Rodrigo </li>
+<li>Especificar os controles| Matheus</li> 
 <li>AI (Jogador que controla, não as unidades. Estas apenas seguem comandos)</li>
-<li>Permitir criação das unidades com distribuição de pontos (?)</li>
-<li>Unidades default</li>
+<li>Unidades default | Andrezza</li>
 
 
-# Jogo
-<li>Fisica tiros(?)</li>
-<li>Estruturar sistema de mira</li>
+## Jogo
+<li>Estruturar sistema de mira | Matheus</li>
 <li>Jogador pode direcionar todas as suas unidades para atirar em uma unica unidade inimiga (?)</li>
-<li>Outros elementos</li>
+<li>Sistema de distancia contado por cédulas (Tabuleiro)</li>
 
-# Criptografia
-<li> Recuperar pontos de habilidade em arquivo criptografado ou Banco de dados (SQL)</li>
+##Design
+<li> Pixel Art</li>
+
+## Persistência (Criptografia)
+<li> Recuperar pontos de habilidade em arquivo criptografado ou Banco de dados (SQL) | Matheus</li>
