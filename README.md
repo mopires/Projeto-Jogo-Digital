@@ -14,7 +14,7 @@
 <li>Jogador pode direcionar todas as suas unidades para atirar em uma unica unidade inimiga (?)</li>
 <li>Sistema de distancia contado por cédulas (Tabuleiro)</li>
 
-##Design
+## Design
 <li> Pixel Art</li>
 
 ## Persistência (Criptografia)
