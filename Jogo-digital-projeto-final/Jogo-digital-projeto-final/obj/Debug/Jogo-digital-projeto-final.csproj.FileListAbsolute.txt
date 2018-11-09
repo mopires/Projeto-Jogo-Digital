@@ -8,3 +8,13 @@ C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-fina
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.exe
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.pdb
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Form1.resources
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.exe.config
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.exe
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Jogo-digital-projeto-final.pdb
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Form1.resources
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Properties.Resources.resources
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csproj.GenerateResource.Cache
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csproj.CoreCompileInputs.cache
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.exe
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.pdb
+C:\Users\alu201810450\Desktop\Projeto-Jogo-Digital-master\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csprojResolveAssemblyReference.cache

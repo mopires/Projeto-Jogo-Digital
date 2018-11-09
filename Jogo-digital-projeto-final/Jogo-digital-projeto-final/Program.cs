@@ -17,6 +17,8 @@ namespace Jogo_digital_projeto_final
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
         }
     }
 }
