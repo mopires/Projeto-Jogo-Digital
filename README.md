@@ -3,7 +3,7 @@
 ### Projeto de desenvolvimento de um jogo de tiro em C#
 
 ## Unidades
-<li>Criar estrutura personagem | - [](Rodrigo) </li>
+<li>Criar estrutura personagem | -[x](Rodrigo) </li>
 <li>Especificar os controles|  [ ] Matheus</li> 
 <li>AI (Jogador que controla, não as unidades. Estas apenas seguem comandos) [ ]</li>
 <li>Unidades default | Andrezza [ ]</li>
