@@ -3,25 +3,41 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using MySql.Data.MySqlClient;
+
+
+
 
 namespace Jogo_digital_projeto_final
 {
     class Atiradores
     {
         protected string nome;
-        protected int dano, distancia, alcanco, municao, vida;
-
-        public Atiradores(string DefineNome, int DefineDano, int DefineDistancia, int DefineMunicao, int DefineVida, int DefineAlcanco)
+        protected int mira, municao, vitoria, derrota;
+        protected float dinheiro;
+        
+        public Atiradores(MySqlDataReader info)
         {
-            this.nome = DefineNome;
-            this.dano = DefineDano;
-            this.distancia = DefineDistancia;
-            this.municao = DefineMunicao;
-            this.vida = DefineVida;
-            this.alcanco = DefineAlcanco;
+            
+            nome     = info.GetString(1);
+            mira     = int.Parse(info.GetString(2));
+            municao  = int.Parse(info.GetString(3));
+            dinheiro = float.Parse(info.GetString(4));
+            vitoria  = int.Parse(info.GetString(5));
+            derrota  = int.Parse(info.GetString(6));
+
         }
 
+        public virtual void Shoot()
+        {
 
+        }
+
+        public virtual void Reload()
+        {
+            //rever
+        }
 
     }
 }
