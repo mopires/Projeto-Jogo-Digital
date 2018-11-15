@@ -29,6 +29,11 @@ namespace Jogo_digital_projeto_final
 
         }
 
+        public string GetNome()
+        {
+            return nome;
+        }
+
         public virtual void Shoot()
         {
 

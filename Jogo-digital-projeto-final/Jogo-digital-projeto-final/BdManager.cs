@@ -12,7 +12,13 @@ namespace Jogo_digital_projeto_final
     {
         MySqlConnection conexao;
         MySqlCommand comando;
-        
+
+        /*
+        public BdManager(string bd)
+        {
+            criar contrutor para conectar com a interface que liga o banco
+        }
+        */
 
         public void Connect()
         {
