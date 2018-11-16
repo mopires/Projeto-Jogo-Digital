@@ -27,27 +27,25 @@ namespace Jogo_digital_projeto_final
             MySqlDataReader dado = bdManager.GetInfo();
             dado.Read();
             
-            Atiradores[] atiradores = new Atiradores[6]; //pegar numero de personagens/linhas
-                                                         //no banco para indice
+            btnDimitri.Text = dado.GetString(1);
+            dado.Read();
+            btnMikhail.Text = dado.GetString(1);
+            dado.Read();
+            btnNikolai.Text = dado.GetString(1);
+            dado.Read();
+            btnSamiro.Text = dado.GetString(1);
+            dado.Read();
+            btnSerguei.Text = dado.GetString(1);
+            dado.Read();
+            btnBoris.Text = dado.GetString(1);
+            dado.Read();
 
-            List<Button> buttons = new List<Button>();
-            for (int i = 0; i < 6; i++)
-            {
-                Button newButton = new Button();
-
-                buttons.Add(newButton);
-                Controls.Add(newButton);
-
-                newButton.Name   = dado.GetString(1);
-                newButton.Text   = dado.GetString(1);
-                newButton.Location = new Point(newButton.Width + (i * 100),
-                                               0);
-
-                atiradores[i] = new Atiradores(dado);
-                dado.Read();
-            }
 
         }
 
+        private void btnDimitri_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-fina
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\Google.Protobuf.dll
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\bin\Debug\MySql.Data.xml
 C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo-digital-projeto-final.csproj.CopyComplete
+C:\Users\mathe\source\repos\Jogo-digital-projeto-final\Jogo-digital-projeto-final\obj\Debug\Jogo_digital_projeto_final.Luta.resources
